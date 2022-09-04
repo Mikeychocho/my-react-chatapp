@@ -1,0 +1,93 @@
+[
+    {
+        "surname" : "Emmanuel",
+        "firstname" : "Michael",
+        "status" : "online",
+        "image" : "../assets/dp_img_1.jpg",
+        "onClick" : "Chat-1",
+        "message1" : "Hi👋",
+        "message2" : "Sup",
+        "message3" : "😎Cool, you?",
+        "id" : 0,
+        "time" : "12:06 PM",
+        "unread" : "6"
+    },
+    {
+        "surname" : "Victor",
+        "firstname" : "Rose",
+        "status" : "online",
+        "image" : "../assets/dp_img_2.jpg",
+        "onClick" : "Chat-2",
+        "message1" : "👋",
+        "message2" : "Good evening",
+        "message3" : "Evening. How're you?😊",
+        "id" : 1,
+        "time" : "14:46 PM",
+        "unread" : "3"
+    },
+    {
+        "surname" : "Ardee",
+        "firstname" : "Max",
+        "status" : "offline",
+        "image" : "../assets/dp_img_3.jpg",
+        "onClick" : "Chat-3",
+        "message1" : "Hello",
+        "message2" : "Nice to meet, have we met?",
+        "message3" : "It's Max, from the restaurant",
+        "id" : 2,
+        "time" : "14:50 PM",
+        "unread" : "1"
+    },
+    {
+        "surname" : "Garfield",
+        "firstname" : "Anderson",
+        "status" : "online",
+        "image" : "../assets/dp_img_4.jpg",
+        "onClick" : "Chat-4",
+        "message1" : "Hey, I'm free right now. Wanna come over?😜",
+        "message2" : "Same here, sure😊",
+        "message3" : "I'd be expecting you",
+        "id" : 3,
+        "time" : "20:22 PM",
+        "unread" : "2"
+    },
+    {
+        "surname" : "Franky",
+        "firstname" : "Bobby",
+        "status" : "online",
+        "image" : "../assets/dp_img_5.jpg",
+        "onClick" : "Chat-1",
+        "message1" : "Hi👋",
+        "message2" : "Sup",
+        "message3" : "😎Cool, you?",
+        "id" : 4,
+        "time" : "22:10 PM",
+        "unread" : "2"
+    },
+    {
+        "surname" : "Tom",
+        "firstname" : "Gracy",
+        "status" : "online",
+        "image" : "../assets/dp_img_6.jpg",
+        "onClick" : "Chat-2",
+        "message1" : "👋",
+        "message2" : "Good evening",
+        "message3" : "Evening. How're you?😊",
+        "id" : 5,
+        "time" : "02:01 AM",
+        "unread" : "3"
+    },
+    {
+        "surname" : "John",
+        "firstname" : "Paulina",
+        "status" : "offline",
+        "image" : "../assets/dp_img_7.jpg",
+        "onClick" : "Chat-3",
+        "message1" : "Hello",
+        "message2" : "Nice to meet, have we met?",
+        "message3" : "It's Max, from the restaurant",
+        "id" : 6,
+        "time" : "08:21 AM",
+        "unread" : "1"
+    }
+]
